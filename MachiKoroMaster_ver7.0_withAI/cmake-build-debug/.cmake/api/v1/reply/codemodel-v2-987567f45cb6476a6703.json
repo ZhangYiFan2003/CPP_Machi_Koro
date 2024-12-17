@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MachiKoro_master",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MachiKoro_master::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MachiKoro_master-Debug-27ce8123c3a67d64ef30.json",
+					"name" : "MachiKoro_master",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/MachiKoroMaster_ver7.0_withAI/MachiKoroMaster_ver7.0_withAI/MachiKoroMaster_ver7.0_withAI/cmake-build-debug",
+		"source" : "E:/MachiKoroMaster_ver7.0_withAI/MachiKoroMaster_ver7.0_withAI/MachiKoroMaster_ver7.0_withAI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
